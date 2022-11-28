@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shdx8&show_icons=true&locale=en&layout=compact" alt="shdx8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shdx8&show_icons=true&locale=en" alt="shdx8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shdx8&" alt="shdx8" /></p>
