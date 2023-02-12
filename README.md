@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shdx08" target="blank"><img src="https://img.shields.io/twitter/follow/shdx08?logo=twitter&style=for-the-badge" alt="shdx08" /></a> </p>
 
-- 📫 How to reach me **elyas.xz1@gmail.com**
+- 📫 How to reach me **elyas@shdx.my.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
