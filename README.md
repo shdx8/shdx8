@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shdx8" alt="shdx8" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shdx08" target="blank"><img src="https://img.shields.io/twitter/follow/shdx08?logo=twitter&style=for-the-badge" alt="shdx08" /></a> </p>
-<p align="left"> <a href="https://twitter.com/enterths" target="blank"><img src="https://img.shields.io/twitter/follow/shdx08?logo=twitter&style=for-the-badge" alt="shdx08" /></a> </p>
+<p align="left"> <a href="https://twitter.com/enterths" target="blank"><img src="https://img.shields.io/twitter/follow/enterths?logo=twitter&style=for-the-badge" alt="enterths" /></a> </p>
 
 - 📫 How to reach me **elyas@shdx.my.id**
 
